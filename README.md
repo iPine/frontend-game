@@ -5,4 +5,5 @@ frontend-nanodegree-arcade-game
 ### All basic function has been done. Including:
 #### Enemy constructor、 Enemy render、 Enemy update
 #### Player constructor、 Player render、 Player update、 Player handleInput、
-#### instantiate objects
+#### instantiation
+#### index  [演示](http://ipine.coding.me/arcade-game-master/index.html)
